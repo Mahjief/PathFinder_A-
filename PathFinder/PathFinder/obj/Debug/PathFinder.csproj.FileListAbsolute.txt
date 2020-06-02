@@ -1,0 +1,12 @@
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\bin\Debug\PathFinder.exe.config
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\bin\Debug\PathFinder.exe
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\bin\Debug\PathFinder.pdb
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\obj\Debug\PathFinder.csprojAssemblyReference.cache
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\obj\Debug\PathFinder.Atributos.resources
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\obj\Debug\PathFinder.Tablero.resources
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\obj\Debug\PathFinder.Properties.Resources.resources
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.GenerateResource.cache
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\obj\Debug\PathFinder.csproj.CoreCompileInputs.cache
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\obj\Debug\PathFinder.exe
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\obj\Debug\PathFinder.pdb
+C:\Users\Mahjief\Desktop\VS19 C\PathFinder\PathFinder\obj\Debug\PathFinder.AsignarTipo.resources
